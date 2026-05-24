@@ -16,6 +16,11 @@ A lightweight browser extension that enhances Gmail navigation with shortcuts.
 Click Here 👉
 [![Firefox](https://img.shields.io/badge/Firefox-Install-FF7139?logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/gmail-shortcuts-plus/)
 
+### Microsoft Edge
+
+Click Here 👉
+[![Edge](https://img.shields.io/badge/Edge-Install-0078D7?logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/nkhjhlamnlfjihcgnipbjccdchpoiggn)
+
 ### Chromium (Chrome/Edge/Brave)
 
 1. Download `gmail-shortcuts-plus-extension.zip`  
